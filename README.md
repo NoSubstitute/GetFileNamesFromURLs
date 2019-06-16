@@ -12,7 +12,7 @@ The last two are just indicators, letting you know the script is running, and wi
 
 Then you insert the two .gs file from this repo into the Sheets Script Editor under Tools, and save.
 
-When you reload your sheet, you should now have a tiny menu called Update shet, with two options.
+When you reload your sheet, you should now have a tiny menu, to the right of Help, called Update shet, with two options.
 
 1. Get file ids
 2. Get file names
