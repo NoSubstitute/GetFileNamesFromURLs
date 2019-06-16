@@ -1,7 +1,7 @@
 # GetFileNamesFromURLs
 Get Google File Names From URLs
 
-When I exported my goo.gl short URLs from Google's now deprecated service they didn't include the title of the linked object, so it was impossible to know what it was for. I had to figure out a way to get the titles for my files, and I really didn't want to click them all one by one, find the title, and copy-paste. So I created this little thing from snippets I found by googling how to get information off an file id through Google's APIs.
+When I exported my goo.gl short URLs from Google's now deprecated service they didn't include the title of the linked object, so it was impossible to know what it was for. I had to figure out a way to get the titles for my files, and I really didn't want to click them all one by one, find the title, and copy-paste. So I created this little thing from snippets I found by googling how to get information off an file id through Google's APIs, including reading the wiki for GAMADV-XTD3, which is an awesome commandline tool that could also do this if provided a properly formatted CSV file, but... my goal was to do all of it inside a Sheet.
 
 Start by making sure your Sheet has these seven columns.
 
